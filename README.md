@@ -1,0 +1,1 @@
+Este aplicativo para PC foi desenvolvido para uma PCB de bioimpedância com comunicação BLE. Ele conecta ao dispositivo usando endereço MAC, permite enviar comandos, receber respostas completas, visualizar dados em tempo real e gerar gráficos de parte real e imaginária por frequência, além de salvar imagens e limpar medições rapidamente.
